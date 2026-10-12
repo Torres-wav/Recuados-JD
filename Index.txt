@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <title>RECAUDOS JD</title>
+  <title>JD Cumaribo - Sistema</title>
   <style>
     * {
       margin: 0;
@@ -28,7 +28,7 @@
 </head>
 <body>
   <iframe 
-    src="https://script.google.com/macros/s/AKfycbwQb3evgG803j-ZyQBWi4AX79HwpOPPi-YzfQbMyXIE3nnuDNz0GcmP0xezybfyS6Vp/exec" 
+    src="https://script.google.com/macros/s/AKfycbw0T96doH-9VwUR8BDAK7zFOjc46pyEg7NsN_Pfi73M19s8MjnaYdsq4qT8zIxAqZAS/exec" 
     allow="camera; microphone; geolocation"
     loading="eager">
   </iframe>
